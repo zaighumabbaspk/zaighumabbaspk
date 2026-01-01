@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Zaighum Abbas  
 ### 🚀 Full Stack .NET & Angular Developer  
 
-I’m a Full Stack Developer with **3+ years of hands-on experience** building scalable, maintainable, and high-performance web applications.  
-I work across both **frontend (Angular)** and **backend (.NET)** with a strong focus on clean code, performance, and real-world problem solving.
+I am a passionate Full Stack Developer with over 3 years of hands-on experience designing and delivering scalable, maintainable, and high-performance web applications. Skilled in both frontend development with Angular and backend engineering using .NET, I focus on writing clean, efficient code and solving real-world challenges to create seamless user experiences.
 
 ---
 
