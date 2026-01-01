@@ -10,9 +10,12 @@ I work across both **frontend (Angular)** and **backend (.NET Web API)** with a 
 
 Here are some of my highlighted repositories showcasing my skills and work:
 
-- 🔹 [Angular Admin E-Commerce](https://github.com/zaighumabbaspk/AngularAdminEcommerce) – A scalable Angular admin dashboard for e-commerce platforms.  
-- 🔹 [Bank Loan Angular](https://github.com/zaighumabbaspk/BankLoanAngular) – Angular frontend for managing bank loan applications.  
-- 🔹 [JWT Authentication .NET API](https://github.com/zaighumabbaspk/JWTAuthAPI) – Secure .NET Web API implementing JWT authentication and clean architecture.
+- 🔹 [AngularNet-Ecommerce](https://github.com/zaighumabbaspk/AngularNet-Ecommerce)  
+- 🔹 [Bank-Loan-Angular](https://github.com/zaighumabbaspk/Bank-Loan-Angular)  
+- 🔹 [Chat-App-mern](https://github.com/zaighumabbaspk/Chat-App-mern)  
+- 🔹 [Full-stack-Notes-app](https://github.com/zaighumabbaspk/Full-stack-Notes-app)  
+- 🔹 [BookStore-Backend](https://github.com/zaighumabbaspk/BookStore-Backend)  
+- 🔹 [.Net-JwtAuth](https://github.com/zaighumabbaspk/.Net-JwtAuth)  
 
 ---
 
