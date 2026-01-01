@@ -2,7 +2,6 @@
 ### 🚀 Full Stack .NET & Angular Developer  
 
 I am a passionate Full Stack Developer with over 3 years of hands-on experience designing and delivering scalable, maintainable, and high-performance web applications. Skilled in both frontend development with Angular and backend engineering using .NET, I focus on writing clean, efficient code and solving real-world challenges to create seamless user experiences.
-
 ---
 
 ## 🚀 Featured Projects
@@ -56,7 +55,7 @@ Here are some of my highlighted repositories showcasing my skills and work:
 I'm open to collaboration, remote opportunities, and learning from the developer community.
 
 ### 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/zaighum-abbas](https://www.linkedin.com/in/zaighum-abbas-273972331/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaighum-abbas-273972331/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zaighumabbas786000@gmail.com)
 
 ---
