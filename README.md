@@ -6,6 +6,16 @@ I work across both **frontend (Angular)** and **backend (.NET Web API)** with a 
 
 ---
 
+## 🚀 Featured Projects
+
+Here are some of my highlighted repositories showcasing my skills and work:
+
+- 🔹 [Angular Admin E-Commerce](https://github.com/zaighumabbaspk/AngularAdminEcommerce) – A scalable Angular admin dashboard for e-commerce platforms.  
+- 🔹 [Bank Loan Angular](https://github.com/zaighumabbaspk/BankLoanAngular) – Angular frontend for managing bank loan applications.  
+- 🔹 [JWT Authentication .NET API](https://github.com/zaighumabbaspk/JWTAuthAPI) – Secure .NET Web API implementing JWT authentication and clean architecture.
+
+---
+
 ## 💻 Tech Expertise  
 ### **Frontend**
 - Angular, TypeScript, JavaScript (ES6+)
@@ -85,6 +95,5 @@ I'm open to collaboration, remote opportunities, and learning from the developer
 ---
 
 [![](https://visitcount.itsvg.in/api?id=zaighumabbaspk&icon=5&color=6)](https://visitcount.itsvg.in)
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
