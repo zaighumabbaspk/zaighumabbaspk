@@ -2,7 +2,7 @@
 ### 🚀 Full Stack .NET & Angular Developer  
 
 I’m a Full Stack Developer with **3+ years of hands-on experience** building scalable, maintainable, and high-performance web applications.  
-I work across both **frontend (Angular)** and **backend (.NET Web API)** with a strong focus on clean code, performance, and real-world problem solving.
+I work across both **frontend (Angular)** and **backend (.NET)** with a strong focus on clean code, performance, and real-world problem solving.
 
 ---
 
@@ -52,19 +52,12 @@ Here are some of my highlighted repositories showcasing my skills and work:
 
 ---
 
-## 🌱 Currently Learning
-- Advanced Angular Architecture  
-- Clean Architecture + Repository Pattern in .NET  
-- Testing (Jasmine/Karma, Postman automation)  
-- DevOps workflows and CI/CD pipelines  
-
----
 
 ## 🤝 Let’s Connect  
 I'm open to collaboration, remote opportunities, and learning from the developer community.
 
 ### 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zaighum-abbas)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/zaighum-abbas](https://www.linkedin.com/in/zaighum-abbas-273972331/))  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zaighumabbas786000@gmail.com)
 
 ---
